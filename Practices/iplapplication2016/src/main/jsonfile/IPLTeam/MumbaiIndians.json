@@ -1,0 +1,16 @@
+[
+{
+	"Name":"Mumbai Indains",
+	"MumbaiIndians":[
+	{
+    "team_name": "MumbaiIndians",
+    "team_img_url": "team_logo/MI.jpg",
+    "team_coach": "Ricky Ponting",
+    "team_captain": "Rohit Sharma",
+    "team_home_venue": "Wankhede Stadium",
+    "team_owner": "Indiawin Sports Pvt. Ltd"
+    
+  }
+	]
+}
+]

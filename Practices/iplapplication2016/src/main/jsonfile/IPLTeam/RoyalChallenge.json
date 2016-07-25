@@ -1,0 +1,16 @@
+[
+{
+	"Name":"Royal Challenges",
+	"RoyalChallenge":[
+	{
+    "team_name": "RoyalChallenge",
+    "team_img_url": "team_logo/RCB.jpg",
+    "team_coach": "Daniel Vettori",
+    "team_captain": "Virat Kohli",
+    "team_home_venue": "M. Chinnaswamy Stadium",
+    "team_owner": "Royal Challengers Sports Private Ltd"
+    
+  }
+	]
+}
+]
