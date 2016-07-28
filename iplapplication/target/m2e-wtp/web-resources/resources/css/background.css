@@ -1,0 +1,59 @@
+
+button{
+border:1px solid #004D36; -webkit-border-radius: 50px; -moz-border-radius: 50px;border-radius: 50px;font-size:12px;font-family:arial, helvetica, sans-serif; padding: 10px 10px 10px 10px; text-decoration:none; display:inline-block;text-shadow: -1px -1px 0 rgba(0,0,0,0.3);font-weight:bold; color: #FFFFFF;
+ background-color: #A90329; background-image: -webkit-gradient(linear, left top, left bottom, from(#A90329), to(#6D0019));
+ background-image: -webkit-linear-gradient(top, #A90329, #6D0019);
+ background-image: -moz-linear-gradient(top, #A90329, #6D0019);
+ background-image: -ms-linear-gradient(top, #A90329, #6D0019);
+ background-image: -o-linear-gradient(top, #A90329, #6D0019);
+ background-image: linear-gradient(to bottom, #A90329, #6D0019);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#A90329, endColorstr=#6D0019);
+}
+
+button{
+ border:1px solid #004D36;
+ background-color: #77021d; background-image: -webkit-gradient(linear, left top, left bottom, from(#77021d), to(#3a000d));
+ background-image: -webkit-linear-gradient(top, #77021d, #3a000d);
+ background-image: -moz-linear-gradient(top, #77021d, #3a000d);
+ background-image: -ms-linear-gradient(top, #77021d, #3a000d);
+ background-image: -o-linear-gradient(top, #77021d, #3a000d);
+ background-image: linear-gradient(to bottom, #77021d, #3a000d);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#77021d, endColorstr=#3a000d);
+}
+/* body {
+    background-image: url("http://brightcove.vo.llnwd.net/e1/pd/3588749423001/3588749423001_4917877859001_winning.jpg?pubId=3588749423001");
+} */
+<!-- 	
+table {
+  font-family: 'Arial';
+  margin: 10px auto;
+  border-collapse: collapse;
+  border: 3px solid #eee;
+  border-bottom: 5px solid #4CAF50;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.10),
+     0px 10px 20px rgba(0,0,0,0.05),
+     0px 20px 20px rgba(0,0,0,0.05),
+     0px 30px 20px rgba(0,0,0,0.05);
+  tr {
+     &:hover {
+      background: #f4f4f4;
+      
+      td {
+        color: #555;
+      }
+    }
+  }
+  th, td {
+    color: #999;
+    border: 1px solid #eee;
+    padding: 20px 50px;
+    border-collapse: collapse;
+  }
+  th {
+    background: #00cccc;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    &.last {
+      border-right: none;
+    }
+  }
+} 
